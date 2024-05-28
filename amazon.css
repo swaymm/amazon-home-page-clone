@@ -259,9 +259,10 @@ span{
 }
 
 .box2 h2{
-    position: absolute;
-    bottom: 157px;
-    left: 330px;
+    position: relative;
+    bottom: -10px;
+    left: 10px;
+
 }
 
 .box2-img1{
